@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name": "Oppo",
+        "model": "A5s",
+        "brand": "Oppo",
+        "image": "",
+        "price": 100,
+        "stock": 900
+    },
+    {
+        "id":1,
+        "name": "Oppo",
+        "model": "A5s",
+        "brand": "Oppo",
+        "image": "",
+        "price": 100,
+        "stock": 900
+    },
+    {
+        "id":1,
+        "name": "Oppo",
+        "model": "A5s",
+        "brand": "Oppo",
+        "image": "",
+        "price": 100,
+        "stock": 900
+    }
+]
